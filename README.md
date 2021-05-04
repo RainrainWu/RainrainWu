@@ -4,9 +4,8 @@
 
 <a href="https://github.com/RainrainWu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RainrainWu&show_icons=true&theme=algolia&count_private=true" alt="RainrainWu's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainrainWu&theme=merko&layout=compact" alt="RainrainWu's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainrainWu&theme=algolia&layout=compact&exclude_repo=gitbook-docs" alt="RainrainWu's github top languages" />
 </a>
-
 
 <!--
 **RainrainWu/RainrainWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
