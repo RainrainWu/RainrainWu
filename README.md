@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/RainrainWu?label=Follow&style=social)](https://github.com/RainrainWu)
 
-<a href="https://github.com/appleboy">
+<a href="https://github.com/RainrainWu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RainrainWu&show_icons=true&theme=algolia&count_private=true" alt="RainrainWu's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainrainWu&theme=merko&layout=compact" alt="RainrainWu's github top languages" />
 </a>
