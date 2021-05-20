@@ -4,7 +4,7 @@
 
 <a href="https://github.com/RainrainWu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RainrainWu&show_icons=true&theme=algolia&count_private=true" alt="RainrainWu's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainrainWu&theme=algolia&layout=compact&exclude_repo=gitbook-docs&hide=javascript,html" alt="RainrainWu's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainrainWu&theme=algolia&layout=compact&exclude_repo=gitbook-docs&hide=javascript,html,jupyter%20notebook" alt="RainrainWu's github top languages" />
 </a>
 
 <!--
