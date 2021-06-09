@@ -14,10 +14,6 @@ I'm Rain, an experienced software engineer specializing in distributed systems a
 - LinkedIn: https://www.linkedin.com/in/rain0114/
 - Medium: https://medium.com/@Rain_Wu
 
-### Contact Info
-
-- Email: s0958334772@gmail.com
-
 ## My Tech Stack
 Here is the techniques and tools I familiar with, feel free to ask me the details or interchange related experiences :)
 
@@ -28,6 +24,10 @@ Here is the techniques and tools I familiar with, feel free to ask me the detail
 | **Observability** | Prometheus, Grafana, New Relic, AWS Cloudwatch, Kibana |
 | **DevOps & CI CD** | Docker, Docker-compose, Terraform, Packer, Rancher, Drone, GitHub Actions, Helm |
 | **Others** | AWS, microservices, distributed system, GraphQL, GitFlow |
+
+## Contact Info
+
+- Email: s0958334772@gmail.com
 
 <!--
 **RainrainWu/RainrainWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
