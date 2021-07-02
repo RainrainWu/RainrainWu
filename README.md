@@ -12,7 +12,7 @@ I'm Rain, an experienced software engineer specializing in distributed systems a
 ### More About Me
 
 - LinkedIn: https://www.linkedin.com/in/rain0114/
-- Medium: https://medium.com/@Rain_Wu
+- Medium: https://rain-wu.medium.com/
 
 ## My Tech Stack
 Here is the techniques and tools I familiar with, feel free to ask me the details or interchange related experiences :)
