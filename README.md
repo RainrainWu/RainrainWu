@@ -19,7 +19,7 @@ Here is the techniques and tools I familiar with, feel free to ask me the detail
 
 | Category | Techniques & Tools |
 | - | - |
-| **Programming Language** | Python (5 years), Go (1 year) |
+| **Programming Language** | Python (5 years), Go (2 years) |
 | **Storage** | Redis, PostgreSQL, Cassandra, Elasticsearch |
 | **Observability** | Prometheus, Grafana, New Relic, AWS Cloudwatch, Kibana |
 | **DevOps & CI CD** | Docker, Docker-compose, Terraform, Packer, Rancher, Drone, GitHub Actions, Helm |
@@ -28,18 +28,3 @@ Here is the techniques and tools I familiar with, feel free to ask me the detail
 ## Contact Info
 
 - Email: s0958334772@gmail.com
-
-<!--
-**RainrainWu/RainrainWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
