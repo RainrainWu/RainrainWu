@@ -19,8 +19,8 @@ Here is the techniques and tools I familiar with, feel free to ask me the detail
 
 | Category | Techniques & Tools |
 | - | - |
-| **Programming Language** | Python (7 years), Go (2 years) |
-| **Storage** | Redis, PostgreSQL, Cassandra, Elasticsearch |
+| **Programming Language** | Python (7 years), Go (3 years) |
+| **Storage** | Redis, PostgreSQL, Elasticsearch, AWS S3 |
 | **Observability** | Prometheus, Grafana, OpenTelmetry, DataDog, AWS Cloudwatch, Kibana |
 | **DevOps & CI CD** | Docker, Docker-compose, Jenkins, GitHub Actions, Kubernetes |
 | **Others** | AWS, GCP, REST APIs, microservices, distributed system, GraphQL, GitFlow |
